@@ -68,7 +68,20 @@ Hello there! My name is Gordon and I’m a father and a software engineer with a
 
 ---
 
+<br />
+
+### Buy Me a Coffee ☕
+
+If you found my work helpful or just want to support me, you can buy me a coffee! Any contribution is greatly appreciated and will go towards funding my various projects, including covering my exorbitant OpenAI API bill (just kidding, but those models can be expensive!). Your support will help me continue creating useful content and building exciting new things. Thank you in advance for your generosity!
+To buy me a coffee, you can click [here](https://ko-fi.com/gmickel) or use the button below.
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gmickel)
+
 <br/>
+
+---
+
+<br />
 
 ### GitHub Stats
 
