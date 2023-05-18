@@ -10,7 +10,6 @@ Hello there! My name is Gordon and I’m a father and a software engineer with a
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Dive further into Deep Learning
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### 🤝 Connect with me:
 
