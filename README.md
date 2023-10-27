@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/gmickel?color=%234682B4&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgmickel&screen_name=gmickel)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/110272900473369489?color=%2324435C&domain=https%3A%2F%2Fsocial.dociq.io%2F&logo=mastodon&logoColor=%23fff&style=for-the-badge)](https://social.dociq.io/@gordon)
 
-Hello there! My name is Gordon and I’m a father and a software engineer with a focus on full stack web development. I’m also the Co-Founder and Lead Developer at [DocIQ](https://twitter.com/DocIQ_io) and a technical advisor for various other projects. Lately, I’ve been particularly passionate about building with and on-top of LLMs (Large Language Models). Feel free to connect with me on Twitter to learn more about my work and interests!
+Hello there! My name is Gordon and I’m a father and a software engineer with a focus on full stack web development. I’m the owner of [Mickel Tech](https://mickel.tech), the Co-Founder at [DocIQ](https://twitter.com/DocIQ_io) and a technical advisor for various other projects. Lately, I’ve been particularly passionate about building with and on-top of LLMs (Large Language Models). Feel free to connect with me on Twitter to learn more about my work and interests!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -18,6 +18,10 @@ Hello there! My name is Gordon and I’m a father and a software engineer with a
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gmickel/)
 </br>
 </br>
+
+- ☎️ For advice and consultancy you can [Book a call with me](https://mickel.tech/book).
+
+<br />
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me on [Twitter](https://twitter.com/gmickel)!
 
