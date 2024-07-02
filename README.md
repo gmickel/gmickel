@@ -9,7 +9,7 @@
 Hello there! I'm Gordon, a software engineer specializing in full stack web development and AI engineering. Currently, I'm wearing several hats:
 
 - Tech Lead @ [Cistec AG](https://www.cistec.com/): 
-  - Leading an internal enabling team of developers, facilitating the migration of our modules to a cutting-edge technology stack.
+  - Member of the internal enabling team of developers, facilitating the migration of our modules to a cutting-edge technology stack.
   - Spearheading our AI engineering initiatives, including the development of robust AI pipelines and the integration of generative AI technologies across our projects.
 - Owner of [Mickel Tech](https://mickel.tech)
 - Co-founder at [DocIQ](https://twitter.com/dociq_io)
