@@ -88,6 +88,9 @@ Feel free to connect with me on Twitter to learn more about my work, our AI adva
 If you found my work helpful or just want to support me, you can buy me a coffee or sponsor me! Any contribution is greatly appreciated and will go towards funding my various projects, including covering my exorbitant OpenAI API bill (just kidding, but those models can be expensive!). Your support will help me continue creating useful content and building exciting new things. Thank you in advance for your generosity!
 
 To sponsor me and support my work, you can click [here](https://github.com/sponsors/gmickel) or use the button below.
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/gmickel)
+
 To buy me a coffee, you can click [here](https://ko-fi.com/gmickel) or use the button below.
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gmickel)
