@@ -3,12 +3,10 @@
 # Hi there, I'm Gordon 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gmickel?color=%234682B4&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgmickel&screen_name=gmickel)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/110272900473369489?color=%2324435C&domain=https%3A%2F%2Fsocial.dociq.io%2F&logo=mastodon&logoColor=%23fff&style=for-the-badge)](https://social.dociq.io/@gordon)
-
 
 Hello there! I'm Gordon, a software engineer specializing in full stack web development and AI engineering. Currently, I'm wearing several hats:
 
-- Tech Lead @ [Cistec AG](https://www.cistec.com/): 
+- Tech Lead @ [Cistec AG](https://www.cistec.com/):
   - Member of the internal enabling team of developers, facilitating the migration of our modules to a cutting-edge technology stack.
   - Spearheading our AI engineering initiatives, including the development of robust AI pipelines and the integration of generative AI technologies across our projects.
 - Owner of [Mickel Tech](https://mickel.tech)
@@ -85,9 +83,11 @@ Feel free to connect with me on Twitter to learn more about my work, our AI adva
 
 <br />
 
-### Buy Me a Coffee ☕
+### Buy Me a Coffee ☕ or Sponsor Me 💖
 
-If you found my work helpful or just want to support me, you can buy me a coffee! Any contribution is greatly appreciated and will go towards funding my various projects, including covering my exorbitant OpenAI API bill (just kidding, but those models can be expensive!). Your support will help me continue creating useful content and building exciting new things. Thank you in advance for your generosity!
+If you found my work helpful or just want to support me, you can buy me a coffee or sponsor me! Any contribution is greatly appreciated and will go towards funding my various projects, including covering my exorbitant OpenAI API bill (just kidding, but those models can be expensive!). Your support will help me continue creating useful content and building exciting new things. Thank you in advance for your generosity!
+
+To sponsor me and support my work, you can click [here](https://github.com/sponsors/gmickel) or use the button below.
 To buy me a coffee, you can click [here](https://ko-fi.com/gmickel) or use the button below.
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gmickel)
