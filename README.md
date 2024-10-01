@@ -4,22 +4,48 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gmickel?color=%234682B4&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgmickel&screen_name=gmickel)
 
-Hello there! I'm Gordon, a software engineer specializing in full stack web development and AI engineering. Currently, I'm wearing several hats:
+I'm a software engineer specializing in full stack web development and AI engineering. Currently, I'm wearing several hats:
 
-- Tech Lead @ [Cistec AG](https://www.cistec.com/):
-  - Leading and implementing our AI engineering initiatives, including the development of robust AI pipelines and the integration of generative AI technologies across our projects.
-  - Member of the internal enabling team of developers, facilitating the migration of our modules to a cutting-edge technology stack.
-- Owner of [Mickel Tech](https://mickel.tech)
-- Co-founder at [DocIQ](https://twitter.com/dociq_io)
-- Technical Advisor for various projects
+- **Tech Lead & Head of AI Engineering @ [Cistec AG](https://www.cistec.com/):**
+  - Leading our AI engineering initiatives, developing robust ML/NLP pipelines, and integrating generative AI technologies.
+  - Responsible for our AI platform and a wide range of features in our Clinical Information System, including:
+    - PII pseudonymization using advanced ML/NLP techniques
+    - Clinical text summarization and data extraction
+    - Automated report generation
+    - Text-to-insight solutions for actionable clinical insights
+    - Text-to-SQL for complex healthcare data queries
+    - Generative UI for intuitive clinical system interfaces
+  - Member of the internal enabling team, facilitating the migration of our modules to a cutting-edge technology stack.
+  - Navigating the regulatory landscape in Switzerland and the EU for AI in healthcare.
+- **Owner of [Mickel Tech](https://mickel.tech)**
+- **Co-founder at [DocIQ](https://twitter.com/dociq_io)**
+- **Technical Advisor for various projects**
 
-My recent passion lies in AI engineering, particularly in building with and on top of Large Language Models (LLMs). I'm deeply involved in exploring the potential of generative AI and its practical applications in enterprise settings.
+## 🚀 What I'm Passionate About
 
-Feel free to connect with me on Twitter to learn more about my work, our AI advancements at Cistec, and my thoughts on the evolving tech landscape!
+My focus is on developing pragmatic and practical AI features that drive significant efficiency gains in healthcare, legaltech, and developer tooling. I'm deeply involved in:
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- Building robust, scalable AI platforms for various industries, including healthcare and legal tech
+- Exploring the potential of generative AI in enterprise settings and developer workflows
+- Implementing AI solutions that seamlessly integrate into existing professional workflows
+- Developing cutting-edge AI-powered tools for software development, including:
+  - CodeWhisper: An advanced AI code assistant that outperforms other tools in benchmarks
+  - End-to-end task implementation across entire codebases
+  - Precision-guided context curation for LLMs in software development
+- Creating AI-driven tools for contract lifecycle management
+- Balancing innovation with regulatory compliance and data privacy across different sectors
+- Leveraging NLP and LLMs to enhance document processing, code generation, and analysis
+- Designing intuitive, AI-driven interfaces that improve developer productivity and decision-making
+- Enabling AI to be a true collaborator in the software development process
+
+## 💡 My Approach
+
+I believe in harnessing the power of AI to drive meaningful change across industries. My focus is always on practical, real-world applications that deliver tangible results.
+
+- 🌱 I'm currently learning everything 🤣
+- 👯 I'm looking to collaborate with other content creators
 - 🥅 2024 Goals: Dive further into Deep Learning
+
 
 ### 🤝 Connect with me:
 
