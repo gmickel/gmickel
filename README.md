@@ -6,7 +6,7 @@
 
 I'm a software engineer specializing in full stack web development and AI engineering. Currently, I'm wearing several hats:
 
-- **Tech Lead & Head of AI Engineering @ [Cistec AG](https://www.cistec.com/):**
+- **Lead AI Engineering @ [Cistec AG](https://www.cistec.com/):**
   - Leading our AI engineering initiatives, developing robust ML/NLP pipelines, and integrating generative AI technologies.
   - Responsible for our AI platform and a wide range of features in our Clinical Information System, including:
     - PII pseudonymization using advanced ML/NLP techniques
@@ -15,7 +15,6 @@ I'm a software engineer specializing in full stack web development and AI engine
     - Text-to-insight solutions for actionable clinical insights
     - Text-to-SQL for complex healthcare data queries
     - Generative UI for intuitive clinical system interfaces
-  - Member of the internal enabling team, facilitating the migration of our modules to a cutting-edge technology stack.
   - Navigating the regulatory landscape in Switzerland and the EU for AI in healthcare.
 - **Owner of [Mickel Tech](https://mickel.tech)**
 - **Co-founder at [DocIQ](https://twitter.com/dociq_io)**
