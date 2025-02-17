@@ -4,46 +4,36 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gmickel?color=%234682B4&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgmickel&screen_name=gmickel)
 
-I'm a software engineer specializing in full stack web development and AI engineering. Currently, I'm wearing several hats:
+I'm an AI Engineering Lead specializing in technology innovation. With deep expertise in Software Architecture, Machine Learning, and Large Language Models (LLMs), I bridge the gap between cutting-edge AI and real-world applications. Currently, I'm wearing several hats:
 
-- **Lead AI Engineering @ [Cistec AG](https://www.cistec.com/):**
-  - Leading our AI engineering initiatives, developing robust ML/NLP pipelines, and integrating generative AI technologies.
-  - Responsible for our AI platform and a wide range of features in our Clinical Information System, including:
-    - PII pseudonymization using advanced ML/NLP techniques
-    - Clinical text summarization and data extraction
-    - Automated report generation
-    - Text-to-insight solutions for actionable clinical insights
-    - Text-to-SQL for complex healthcare data queries
-    - Generative UI for intuitive clinical system interfaces
-  - Navigating the regulatory landscape in Switzerland and the EU for AI in healthcare.
+- **AI Engineering Lead @ [Cistec AG](https://www.cistec.com/):**
+  - Envisioning and building the next generation of clinical information systems by combining traditional healthcare IT, intelligent AI agents, and openEHR
+  - Building NLP pipelines for data pseudonymization and privacy-preserving text processing
+  - Developing ML and generative AI solutions for text summarization, semantic search, and interactive analysis
+  - Designing AI-powered features including automated documentation, report generation, and text-to-SQL interfaces
+  - Navigating the regulatory landscape for AI in healthcare across Switzerland and the EU
 - **Owner of [Mickel Tech](https://mickel.tech)**
 - **Co-founder at [DocIQ](https://twitter.com/dociq_io)**
 - **Technical Advisor for various projects**
 
 ## 🚀 What I'm Passionate About
 
-My focus is on developing pragmatic and practical AI features that drive significant efficiency gains in healthcare, legaltech, and developer tooling. I'm deeply involved in:
+My work focuses on creating robust, production-ready AI systems that make information more accessible, structured, and actionable. I'm deeply involved in:
 
-- Building robust, scalable AI platforms for various industries, including healthcare and legal tech
-- Exploring the potential of generative AI in enterprise settings and developer workflows
-- Implementing AI solutions that seamlessly integrate into existing professional workflows
-- Developing cutting-edge AI-powered tools for software development, including:
-  - CodeWhisper: An advanced AI code assistant that outperforms other tools in benchmarks
-  - End-to-end task implementation across entire codebases
-  - Precision-guided context curation for LLMs in software development
+- Building robust, scalable AI platforms for various industries
+- Exploring the potential of generative AI in enterprise settings
+- Implementing AI solutions that seamlessly integrate into existing workflows
+- Developing cutting-edge AI-powered tools for software development
 - Creating AI-driven tools for contract lifecycle management
-- Balancing innovation with regulatory compliance and data privacy across different sectors
-- Leveraging NLP and LLMs to enhance document processing, code generation, and analysis
-- Designing intuitive, AI-driven interfaces that improve developer productivity and decision-making
-- Enabling AI to be a true collaborator in the software development process
+- Balancing innovation with regulatory compliance and data privacy
 
 ## 💡 My Approach
 
-I believe in harnessing the power of AI to drive meaningful change across industries. My focus is always on practical, real-world applications that deliver tangible results.
+I'm passionate about turning cutting-edge AI research into reliable, scalable solutions that deliver real business value.
 
-- 🌱 I'm currently learning everything 🤣
-- 👯 I'm looking to collaborate with other content creators
-- 🥅 2024 Goals: Dive further into Deep Learning
+- 🌱 I'm currently exploring advanced AI agent architectures
+- 👯 I'm looking to collaborate on innovative AI projects
+- 🥅 2025 Goals: Build the clinical information system of the future
 
 
 ### 🤝 Connect with me:
@@ -73,16 +63,24 @@ I believe in harnessing the power of AI to drive meaningful change across indust
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-1B1B1B?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0093E9?style=for-the-badge&logo=windsurf&logoColor=white)
+![Raycast](https://img.shields.io/badge/Raycast-FF6363?style=for-the-badge&logo=raycast&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-%23E6E6E6.svg?style=for-the-badge&logo=hono&logoColor=black)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+
 
 <br />
 <br />
