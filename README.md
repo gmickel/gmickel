@@ -126,6 +126,6 @@ To buy me a coffee, you can click [here](https://ko-fi.com/gmickel) or use the b
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-vert-eta-80.vercel.app/api?username=gmickel&show_icons=true&hide_border=false&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmickel&show_icons=true&hide_border=false&theme=tokyonight&count_private=true)
 
-![GitHub Language Stats](https://github-readme-stats-vert-eta-80.vercel.app/api/top-langs/?username=gmickel&show_icons=true&hide_border=false&theme=tokyonight&count_private=true)
+![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gmickel&show_icons=true&hide_border=false&theme=tokyonight&count_private=true)
