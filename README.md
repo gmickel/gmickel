@@ -92,7 +92,7 @@ I'm passionate about turning cutting-edge AI research into reliable, scalable so
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [The Imperative of Smarter Clinical Information Systems](https://bytesizedbrainwaves.substack.com/p/the-imperative-of-smarter-clinical)
 - [Building a GPT-4 Powered Chatbot with Node.js: Unlimited Context and Chat History in Under 100 Lines of Code](https://medium.com/byte-sized-brainwaves/unlimited-chatbot-context-and-chat-history-in-under-100-lines-of-code-with-langchain-and-node-js-1190fcc20708)
 - [The Importance of Context in AI: Garbage In, Garbage Out](https://medium.com/byte-sized-brainwaves/the-importance-of-context-in-ai-garbage-in-garbage-out-97c16465c441)
 <!-- BLOG-POST-LIST:END -->
