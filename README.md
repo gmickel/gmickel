@@ -6,7 +6,7 @@
 
 I'm an AI Engineering Lead specializing in technology innovation. With deep expertise in Software Architecture, Machine Learning, and Large Language Models (LLMs), I bridge the gap between cutting-edge AI and real-world applications. Currently, I'm wearing several hats:
 
-- **AI Engineering Lead @ [Cistec AG](https://www.cistec.com/):**
+- **Head of AI @ [Cistec AG](https://www.cistec.com/):**
   - Envisioning and building the next generation of clinical information systems by combining traditional healthcare IT, intelligent AI agents, and openEHR
   - Building NLP pipelines for data pseudonymization and privacy-preserving text processing
   - Developing ML and generative AI solutions for text summarization, semantic search, and interactive analysis
