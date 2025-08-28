@@ -4,37 +4,39 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gmickel?color=%234682B4&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgmickel&screen_name=gmickel)
 
-I'm an AI Engineering Lead specializing in technology innovation. With deep expertise in Software Architecture, Machine Learning, and Large Language Models (LLMs), I bridge the gap between cutting-edge AI and real-world applications. Currently, I'm wearing several hats:
+I turn AI into repeatable value creation — as a builder, operator, and trusted advisor. Full-stack engineer turned founder turned AI strategist, I ship production LLM platforms (0→1 in <90 days), enable engineering teams, and bridge the gap between technical possibility and business reality.
 
-- **Head of AI @ [Cistec AG](https://www.cistec.com/):**
-  - Envisioning and building the next generation of clinical information systems by combining traditional healthcare IT, intelligent AI agents, and openEHR
-  - Building NLP pipelines for data pseudonymization and privacy-preserving text processing
-  - Developing ML and generative AI solutions for text summarization, semantic search, and interactive analysis
-  - Designing AI-powered features including automated documentation, report generation, and text-to-SQL interfaces
-  - Navigating the regulatory landscape for AI in healthcare across Switzerland and the EU
-- **Owner of [Mickel Tech](https://mickel.tech)**
-- **Co-founder at [DocIQ](https://twitter.com/dociq_io)**
-- **Technical Advisor for various projects**
+## 🎯 Operating Modes
 
-## 🚀 What I'm Passionate About
+- **Builder:** Founded and sold AI LegalTech to Swiss enterprises (incl. Swisscom) via [DocIQ](https://twitter.com/dociq_io)
+- **Operator:** Recently transformed KISIM (Switzerland's leading CIS) with AI-first capabilities at [Cistec AG](https://www.cistec.com/)
+- **Technical Expert:** Engaged by top law firms for IP/copyright analysis and expert testimony
+- **Advisor:** Guide VCs, C-suites, and portfolio companies on AI strategy, architecture, and risk via [Mickel Tech](https://mickel.tech)
 
-My work focuses on creating robust, production-ready AI systems that make information more accessible, structured, and actionable. I'm deeply involved in:
+## 🚀 What I Build
 
-- Building robust, scalable AI platforms for various industries
-- Exploring the potential of generative AI in enterprise settings
-- Implementing AI solutions that seamlessly integrate into existing workflows
-- Developing cutting-edge AI-powered tools for software development
-- Creating AI-driven tools for contract lifecycle management
-- Balancing innovation with regulatory compliance and data privacy
+My work focuses on creating robust, production-ready AI systems that drive measurable business outcomes:
 
-## 💡 My Approach
+- **Reusable AI Platforms:** LLM API gateways, vector search services, RAG pipelines, evaluation frameworks
+- **Privacy-Preserving AI:** On-prem PII masking (97%+ accuracy) for FADP/GDPR compliance in regulated environments
+- **Agentic Architectures:** Multi-agent systems, prompt-to-structured-data compilers, semantic search at scale
+- **Developer Enablement:** AI coding assistant rollouts, prompt engineering playbooks, safety guardrails
+- **Production LLM Ops:** Evaluation pipelines (quality/safety/latency/cost), observability, A/B testing
 
-I'm passionate about turning cutting-edge AI research into reliable, scalable solutions that deliver real business value.
+## 💡 Recent Wins
 
-- 🌱 I'm currently exploring advanced AI agent architectures
-- 👯 I'm looking to collaborate on innovative AI projects
-- 🥅 2025 Goals: Build the clinical information system of the future
+- Shipped production LLM platform in <3 months driving new ARR in Swiss hospitals
+- Built reusable AI components adopted by 6+ internal teams
+- Scaled GitHub Copilot/Cursor to 50+ engineers with measurable productivity gains
+- Forged strategic partnerships (Google Cloud, research institutions)
+- Speaker at openEHR.ch Symposium on "Agentic AI for Structured Clinical Data"
 
+## 🎯 2025 Focus
+
+- Exploring Operating Principal and Staff/Principal AI Engineering opportunities
+- Building the next generation of agentic AI systems
+- Advising select teams where deep technical execution meets strategic impact
+- Open-source contributions to the AI engineering community
 
 ### 🤝 Connect with me:
 
@@ -44,11 +46,9 @@ I'm passionate about turning cutting-edge AI research into reliable, scalable so
 </br>
 </br>
 
-- ☎️ For advice and consultancy you can [Book a call with me](https://mickel.tech/book).
-
-<br />
-
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me on [Twitter](https://twitter.com/gmickel)!
+- 📅 For advisory or consultancy: [Book a call](https://mickel.tech/book)
+- 💬 Questions/feedback: Reach out on [Twitter](https://twitter.com/gmickel)
+- 🚀 Open to select opportunities where technical depth meets strategic impact
 
 <br />
 
