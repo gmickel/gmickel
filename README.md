@@ -22,7 +22,7 @@ Full-stack engineer → founder → AI strategist. I ship production LLM platfor
 
 Creating robust, production-ready AI systems that drive measurable outcomes:
 
-- **Reusable AI platforms:** LLM API gateways, vector search services, retrieval pipelines, evaluation frameworks  
+- **Reusable AI platforms:** LLM API gateways, vector search services, context engineering, evaluation frameworks  
 - **Privacy-preserving AI:** On-prem PII masking (~97% accuracy) for FADP/GDPR compliance  
 - **Agentic architectures:** Multi-agent systems, prompt-to-structured-data compilers, semantic search at scale  
 - **Developer enablement:** AI coding assistant rollouts, prompt/playbook patterns, safety guardrails  
