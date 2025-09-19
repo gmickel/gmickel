@@ -14,7 +14,7 @@ Full-stack engineer → founder → AI strategist. I ship production LLM platfor
 ## 🎯 Operating Modes
 
 - **Builder:** Built and sold AI LegalTech **into** Swiss enterprises (incl. Swisscom) via [DocIQ](https://twitter.com/dociq_io)  
-- **Operator:** Head of AI @ [Cistec AG](https://www.cistec.com/) (through Oct) — led KISIM’s AI-first capabilities in a regulated environment  
+- **Operator:** Head of AI @ [Cistec AG](https://www.cistec.com/) (through Sep 25) — led KISIM’s AI-first capabilities in a regulated environment  
 - **Technical Expert:** Engaged for IP/copyright analysis and expert testimony in legal proceedings, including arbitration and state-court litigation
 - **Advisor:** Guide VCs, C-suites, and portfolio companies on AI strategy, architecture, and risk via [Mickel Tech](https://mickel.tech)
 
