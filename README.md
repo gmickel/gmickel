@@ -11,6 +11,9 @@
 I turn AI into repeatable value creation — as a builder, operator, and trusted advisor.  
 Full-stack engineer → founder → AI strategist. I ship production LLM platforms (0→1 fast), enable engineering teams, and bridge the gap between technical possibility and business reality.
 
+> **Now:** Operating Principal (AI/Tech) @ GrowthFactors (BU Bregal Unternehmerkapital's) internal go-to-market and value-creation team)
+> **Prev:** Head of AI @ CISTEC AG • Founder @ DocIQ
+
 ## 🎯 Operating Modes
 
 - **Builder:** Built and sold AI LegalTech **into** Swiss enterprises (incl. Swisscom) via [DocIQ](https://twitter.com/dociq_io)  
@@ -45,7 +48,8 @@ Creating robust, production-ready AI systems that drive measurable outcomes:
 ### 🤝 Connect
 
 - 📅 Advisory/consulting: **[Book a call](https://mickel.tech/book)**  
-- 💬 Questions/feedback: **[DM on X](https://twitter.com/gmickel)**  
+- 💬 Questions/feedback: **[DM on X](https://twitter.com/gmickel)**
+- 🚀 Open to select opportunities where technical depth meets strategic impact
 - ❤️ Support: **[GitHub Sponsors](https://github.com/sponsors/gmickel)** · **[Ko-fi](https://ko-fi.com/gmickel)**
 
 ---
