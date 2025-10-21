@@ -40,7 +40,7 @@
 </tr>
 <tr>
 <td><strong>⚙️ Operator</strong></td>
-<td>Head of AI @ <a href="https://www.cistec.com/">Cistec AG</a> (through Sep 25) — led KISIM's AI-first capabilities in a regulated environment</td>
+<td>Operating Principal (AI/Tech) @ GrowthFactors — driving AI/tech value creation across Bregal Unternehmerkapital's portfolio companies</td>
 </tr>
 <tr>
 <td><strong>🎓 Technical Expert</strong></td>
