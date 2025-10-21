@@ -40,7 +40,7 @@
 </tr>
 <tr>
 <td><strong>⚙️ Operator</strong></td>
-<td>Head of AI @ <a href="https://www.cistec.com/">Cistec AG</a> (through Sep 25) — led KISIM's AI-first capabilities in a regulated environment</td>
+<td>Former Head of AI @ <a href="https://www.cistec.com/">Cistec AG</a> — led KISIM's AI-first capabilities in a regulated environment</td>
 </tr>
 <tr>
 <td><strong>🎓 Technical Expert</strong></td>
