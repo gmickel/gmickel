@@ -43,7 +43,7 @@
 <td>Operating Principal (AI/Tech) @ GrowthFactors — driving AI/tech value creation across Bregal Unternehmerkapital's portfolio companies</td>
 </tr>
 <tr>
-<td><strong>🎓 Technical Expert</strong></td>
+<td><strong>🎓 Technical Expert (ITDR)</strong></td>
 <td>Engaged for IP/copyright analysis and expert testimony in legal proceedings, including arbitration and state-court litigation</td>
 </tr>
 <tr>
