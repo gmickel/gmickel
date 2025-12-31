@@ -83,7 +83,7 @@
 <tr><td>🎤</td><td>Speaker at openEHR.ch Symposium: <em>Agentic AI for Structured Clinical Data</em></td></tr>
 </table>
 
-## 🛠 Open Source
+## 🛠 Recent Open Source
 
 <table>
 <tr>
