@@ -78,39 +78,31 @@
 <table>
 <tr><td>🚀</td><td>Shipped a production LLM platform in &lt;3 months, driving new ARR in Swiss hospitals</td></tr>
 <tr><td>🧩</td><td>Built reusable AI components adopted by 6+ internal teams</td></tr>
-<tr><td>⚡</td><td>Scaled GitHub Copilot/Cursor to <strong>50+ engineers</strong> with measurable productivity gains</td></tr>
+<tr><td>⚡</td><td>Scaled AI native development streams and methodologies to <strong>500+ engineers</strong> with measurable productivity gains</td></tr>
 <tr><td>🤝</td><td>Forged strategic partnerships (cloud providers, research institutions)</td></tr>
 <tr><td>🎤</td><td>Speaker at openEHR.ch Symposium: <em>Agentic AI for Structured Clinical Data</em></td></tr>
 </table>
 
-## 🛠 Recent Open Source
+## 🛠 Current Projects
 
-<table>
-<tr>
-<td width="50%">
-<h3><a href="https://mickel.tech/apps/flow">Flow</a></h3>
-<p>Claude Code plugin: plan first, work second. Research agents + structured execution for AI-native dev workflows.</p>
-<a href="https://github.com/gmickel/gmickel-claude-marketplace">GitHub</a>
-</td>
-<td width="50%">
-<h3><a href="https://gno.sh">GNO</a></h3>
-<p>Local hybrid search CLI for your second brain. BM25 + vectors + HyDE. Give AI agents long-term memory over your notes.</p>
-<a href="https://github.com/gmickel/gno">GitHub</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3><a href="https://github.com/gmickel/sheets-cli">sheets-cli</a></h3>
-<p>Google Sheets CLI for humans and AI agents. Read, write, batch ops with JSON I/O.</p>
-<a href="https://github.com/gmickel/sheets-cli">GitHub</a>
-</td>
-<td width="50%">
-<h3><a href="https://mickel.tech/apps/outlookctl">outlookctl</a></h3>
-<p>Control Outlook via COM on Windows. For environments where Graph API is blocked.</p>
-<a href="https://github.com/gmickel/outlookctl">GitHub</a>
-</td>
-</tr>
-</table>
+- 🧭 **[Flow](https://github.com/gmickel/gmickel-claude-marketplace)** - Most agent failures are process failures. Plan first, drift never. RepoPrompt + Beads for Carmack-level cross-model reviews.
+- 🧠 **[GNO](https://github.com/gmickel/gno)** - Your local second brain. Best-in-class hybrid search for all your docs—Markdown, PDF, Office, you name it. CLI, MCP, web UI—for humans and AI agents alike.
+- 📊 **[sheets-cli](https://github.com/gmickel/sheets-cli)** - Google Sheets primitives for humans and agents. Pipe-friendly.
+- 📧 **[outlookctl](https://github.com/gmickel/outlookctl)** - When Graph API is blocked, COM whispers to Classic Outlook.
+- ⚙️ **[claude-code-config](https://github.com/gmickel/claude-code-config)** - My Claude Code setup. Steal freely.
+- ✂️ **[SmartTrim](https://github.com/gmickel/SmartTrim)** - AI clipboard carnage? Fixed. Ghost indentation, begone.
+- 🏄 **[cursor-windsurf-convert](https://github.com/gmickel/cursor-windsurf-convert)** - Surf your AI rules between Cursor and Windsurf. Lossless.
+- 📅 **[CalSync](https://github.com/gmickel/CalSync)** - Clone Apple Calendar events. Simple utility, does one thing.
+
+### Legacy Work
+
+- 🤖 **[CodeWhisper](https://github.com/gmickel/CodeWhisper)** - The OG plan→implement agent. Still my daily driver for repo context.
+- 🧠 **[memorybot](https://github.com/gmickel/memorybot)** - Unlimited context chatbot. Before it was cool.
+- 🏗️ **[turborepo-shadcn-nextjs](https://github.com/gmickel/turborepo-shadcn-nextjs)** - Next.js + Nextra + Storybook + shadcn/ui. Bun & Biome powered.
+- 🎮 **[CodeQuest](https://github.com/gmickel/CodeQuest)** - Quiz game framework. Build your own learning adventures.
+- 🏥 **[openehr-quest](https://github.com/gmickel/openehr-quest)** - Learn OpenEHR via CodeQuest
+- 💡 **[hugh](https://github.com/gmickel/hugh)** - Node.js Hue bridge lib
+- 🤖 **[telegram-hue-bot](https://github.com/gmickel/telegram-hue-bot)** - Lights via Telegram
 
 <br>
 
