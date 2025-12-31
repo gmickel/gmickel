@@ -19,14 +19,14 @@
 <br>
 
 <p align="center">
-  <strong>I turn AI into repeatable value creation — as a builder, operator, and trusted advisor.</strong>
+  <strong>Dev turned Operator. I bridge the gap between "AI Hype" and "Production Reality."</strong>
   <br><br>
-  Full-stack engineer → founder → AI strategist. I ship production LLM platforms (0→1 fast), enable engineering teams, and bridge the gap between technical possibility and business reality.
+  I don't just advise — I build the engine for value creation. Ship production LLM platforms (0→1 fast), enable engineering teams, and treat AI as infrastructure, not a feature.
 </p>
 
 <br>
 
-> **Now:** Operating Principal (AI/Tech) @ GrowthFactors (Bregal Unternehmerkapital's internal go-to-market and value-creation team)
+> **Now:** Operating Principal (AI) @ GrowthFactors (Bregal Unternehmerkapital)
 > **Prev:** Head of AI @ CISTEC AG • Founder @ DocIQ
 
 <br>
@@ -40,11 +40,11 @@
 </tr>
 <tr>
 <td><strong>⚙️ Operator</strong></td>
-<td>Operating Principal (AI/Tech) @ GrowthFactors — driving AI/tech value creation across Bregal Unternehmerkapital's portfolio companies</td>
+<td>Operating Principal (AI) @ GrowthFactors — deploying a standardized AI operating system across Bregal's portfolio companies</td>
 </tr>
 <tr>
 <td><strong>🎓 Technical Expert (ITDR)</strong></td>
-<td>Engaged for IP/copyright analysis and expert testimony in legal proceedings, including arbitration and state-court litigation</td>
+<td>Listed expert for Swiss arbitration & complex data disputes</td>
 </tr>
 <tr>
 <td><strong>💡 Advisor</strong></td>
@@ -83,17 +83,46 @@
 <tr><td>🎤</td><td>Speaker at openEHR.ch Symposium: <em>Agentic AI for Structured Clinical Data</em></td></tr>
 </table>
 
+## 🛠 Open Source
+
+<table>
+<tr>
+<td width="50%">
+<h3><a href="https://mickel.tech/apps/flow">Flow</a></h3>
+<p>Claude Code plugin: plan first, work second. Research agents + structured execution for AI-native dev workflows.</p>
+<a href="https://github.com/gmickel/gmickel-claude-marketplace">GitHub</a>
+</td>
+<td width="50%">
+<h3><a href="https://gno.sh">GNO</a></h3>
+<p>Local hybrid search CLI for your second brain. BM25 + vectors + HyDE. Give AI agents long-term memory over your notes.</p>
+<a href="https://github.com/gmickel/gno">GitHub</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3><a href="https://github.com/gmickel/sheets-cli">sheets-cli</a></h3>
+<p>Google Sheets CLI for humans and AI agents. Read, write, batch ops with JSON I/O.</p>
+<a href="https://github.com/gmickel/sheets-cli">GitHub</a>
+</td>
+<td width="50%">
+<h3><a href="https://mickel.tech/apps/outlookctl">outlookctl</a></h3>
+<p>Control Outlook via COM on Windows. For environments where Graph API is blocked.</p>
+<a href="https://github.com/gmickel/outlookctl">GitHub</a>
+</td>
+</tr>
+</table>
+
 <br>
 
-## 🎯 2025 Focus
+## 🎯 2026 Mandate
 
 <div align="center">
 
-| Focus Area | Description |
-|:----------:|:------------|
-| 🏗️ **Building** | The next generation of agentic AI systems |
-| 💼 **Advising** | Select teams where deep technical execution meets strategic impact |
-| 🌐 **Contributing** | Open-source contributions to the AI engineering community |
+| Focus | What It Means |
+|:-----:|:--------------|
+| 🔄 **Rewire SDLC** | Move teams from Copilot autocomplete to AI-native workflows (Plan → Build → Deploy) |
+| 🤖 **Ops Agents** | Replace manual back-office loops (Finance, HR, Support) with autonomous systems |
+| 📈 **Product AI** | Ship features that drive NRR & EBITDA — 30-day lighthouse pilots, kill or scale |
 
 </div>
 
