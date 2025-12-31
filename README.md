@@ -148,9 +148,10 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Imperative of Smarter Clinical Information Systems](https://bytesizedbrainwaves.substack.com/p/the-imperative-of-smarter-clinical)
-- [Building a GPT-4 Powered Chatbot with Node.js: Unlimited Context and Chat History in Under 100 Lines of Code](https://medium.com/byte-sized-brainwaves/unlimited-chatbot-context-and-chat-history-in-under-100-lines-of-code-with-langchain-and-node-js-1190fcc20708)
-- [The Importance of Context in AI: Garbage In, Garbage Out](https://medium.com/byte-sized-brainwaves/the-importance-of-context-in-ai-garbage-in-garbage-out-97c16465c441)
+- [The "Context Hygiene" Problem: Why I rewrote my Claude Code workflows](https://bytesizedbrainwaves.substack.com/p/the-context-hygiene-problem-why-i)
+- [Announcing gmickel-bench: Real-World Evals](https://bytesizedbrainwaves.substack.com/p/announcing-gmickel-bench-real-world)
+- [Claude Opus 4.5 Unlocks the "No Restart" Workflow](https://bytesizedbrainwaves.substack.com/p/claude-opus-45-unlocks-the-no-restart)
+- [The Merchants of Complexity: Why AI Finally Delivers What Agile Promised](https://bytesizedbrainwaves.substack.com/p/the-merchants-of-complexity-why-ai)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
