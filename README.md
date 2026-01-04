@@ -89,6 +89,7 @@
 - 🧠 **[GNO](https://github.com/gmickel/gno)** - Your local second brain. Best-in-class hybrid search for all your docs—Markdown, PDF, Office, you name it. CLI, MCP, web UI—for humans and AI agents alike.
 - 📊 **[sheets-cli](https://github.com/gmickel/sheets-cli)** - Google Sheets primitives for humans and agents. Pipe-friendly.
 - 🔖 **[raindrop-skill](https://github.com/gmickel/raindrop-skill)** - Agent Skill for Raindrop.io bookmarks. Works with Claude Code, Codex, Amp, OpenCode.
+- 🎓 **[better-skill-builder](https://github.com/gmickel/better-skill-builder)** - Teaches AI agents to build skills. Battle-tested patterns, not theory.
 - 📧 **[outlookctl](https://github.com/gmickel/outlookctl)** - When Graph API is blocked, COM whispers to Classic Outlook.
 - ⚙️ **[claude-code-config](https://github.com/gmickel/claude-code-config)** - My Claude Code setup. Steal freely.
 - ✂️ **[SmartTrim](https://github.com/gmickel/SmartTrim)** - AI clipboard carnage? Fixed. Ghost indentation, begone.
