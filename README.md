@@ -85,7 +85,7 @@
 
 ## 🛠 Current Projects
 
-- 🧭 **[Flow-Next](https://github.com/gmickel/gmickel-claude-marketplace)** - Plan first, work second. Zero external deps. Bundled `.flow/` task system with re-anchoring + reviews. Optional full autonomous Ralph Mode.
+- 🧭 **[Flow-Next](https://github.com/gmickel/gmickel-claude-marketplace)** - Agents that finish what they start. Fresh context per iteration, cross-model review gates, file I/O as state. Two models > one. Ralph Mode for full autonomy. The agent loop Anthropic's own guidance recommends but their plugin doesn't implement.
 - 🧭 **[Flow](https://github.com/gmickel/gmickel-claude-marketplace)** - Most agent failures are process failures. Plan first, drift never. RepoPrompt + Beads for Carmack-level cross-model reviews.
 - 🧠 **[GNO](https://github.com/gmickel/gno)** - Your local second brain. Best-in-class hybrid search for all your docs—Markdown, PDF, Office, you name it. CLI, MCP, web UI—for humans and AI agents alike.
 - 📊 **[sheets-cli](https://github.com/gmickel/sheets-cli)** - Google Sheets primitives for humans and agents. Pipe-friendly.
