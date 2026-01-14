@@ -87,6 +87,7 @@
 
 - 🧭 **[Flow-Next](https://github.com/gmickel/gmickel-claude-marketplace)** - Agents that finish what they start. Fresh context per iteration, cross-model review gates, file I/O as state. Two models > one. Ralph Mode for full autonomy. The agent loop Anthropic's own guidance recommends but their plugin doesn't implement.
 - 🧭 **[Flow](https://github.com/gmickel/gmickel-claude-marketplace)** - Most agent failures are process failures. Plan first, drift never. RepoPrompt + Beads for Carmack-level cross-model reviews.
+- 🧪 **[flow-next-opencode](https://github.com/gmickel/flow-next-opencode)** - OpenCode port of Flow-Next. Same re-anchoring, same review gates, now with OpenCode Agent as reviewer. Experimental.
 - 🧠 **[GNO](https://github.com/gmickel/gno)** - Your local second brain. Best-in-class hybrid search for all your docs—Markdown, PDF, Office, you name it. CLI, MCP, web UI—for humans and AI agents alike.
 - 📊 **[sheets-cli](https://github.com/gmickel/sheets-cli)** - Google Sheets primitives for humans and agents. Pipe-friendly.
 - 🔖 **[raindrop-skill](https://github.com/gmickel/raindrop-skill)** - Agent Skill for Raindrop.io bookmarks. Works with Claude Code, Codex, Amp, OpenCode.
