@@ -13,7 +13,7 @@
     <a href="https://mickel.tech">
       <img src="https://img.shields.io/badge/Website-mickel.tech-111?logo=vercel&style=for-the-badge" alt="Website" />
     </a>
-    <a href="https://discord.gg/ST5Y39hQ">
+    <a href="https://discord.gg/nHEmyJB5tg">
       <img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
     </a>
   </p>
