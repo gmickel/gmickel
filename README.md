@@ -86,10 +86,11 @@
 ## ✅ Recent Wins
 
 <table>
-<tr><td>🚀</td><td>Shipped a production LLM platform in &lt;3 months, driving new ARR in Swiss hospitals</td></tr>
-<tr><td>🧩</td><td>Built reusable AI components adopted by 6+ internal teams</td></tr>
-<tr><td>⚡</td><td>Scaled AI native development streams and methodologies to <strong>500+ engineers</strong> with measurable productivity gains</td></tr>
-<tr><td>🤝</td><td>Forged strategic partnerships (cloud providers, research institutions)</td></tr>
+<tr><td>📄</td><td>Shipped <strong>DocIQ Shield</strong> (court anonymization, in production at Swiss courts) and <strong>DocIQ Sphere</strong> (agentic document intelligence, 40+ tools, 6 legal databases)</td></tr>
+<tr><td>⚡</td><td>Rolled out AI-native SDLC across 4 dev teams on heterogeneous stacks — 100K+ word engineering guide, predicted 50%+ faster delivery</td></tr>
+<tr><td>🎙️</td><td>Architected production AI voice agent for enterprise call center — eval framework, prompt optimization, real-time API</td></tr>
+<tr><td>📊</td><td>Built <a href="https://github.com/gmickel/gmickel-bench">gmickel-bench</a> — real-world AI coding evals across 6 benchmarks with dual scoring (LLM judge + human review)</td></tr>
+<tr><td>🏥</td><td>Shipped a multi-tenant clinical LLM platform in &lt;3 months with on-prem PII masking (97% accuracy), driving new ARR</td></tr>
 <tr><td>🎤</td><td>Speaker at openEHR.ch Symposium: <em>Agentic AI for Structured Clinical Data</em></td></tr>
 </table>
 
