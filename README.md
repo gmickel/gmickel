@@ -86,7 +86,7 @@
 ## ✅ Recent Wins
 
 <table>
-<tr><td>📄</td><td>Shipped <strong>DocIQ Shield</strong> (court anonymization, in production at Swiss courts) and <strong>DocIQ Sphere</strong> (agentic document intelligence, 40+ tools, 6 legal databases)</td></tr>
+<tr><td>📄</td><td>Shipped <strong>DocIQ Shield</strong> (court anonymization, in production at Swiss courts) and <strong>DocIQ Sphere</strong> (the most powerful agentic legal document platform: 40+ tools, 6 legal databases, Word-native tracked changes)</td></tr>
 <tr><td>⚡</td><td>Rolled out AI-native SDLC across 4 dev teams on heterogeneous stacks — 100K+ word engineering guide, predicted 50%+ faster delivery</td></tr>
 <tr><td>🎙️</td><td>Architected production AI voice agent for enterprise call center — eval framework, prompt optimization, real-time API</td></tr>
 <tr><td>📊</td><td>Built <a href="https://github.com/gmickel/gmickel-bench">gmickel-bench</a> — real-world AI coding evals across 6 benchmarks with dual scoring (LLM judge + human review)</td></tr>
