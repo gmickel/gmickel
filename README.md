@@ -13,6 +13,9 @@
     <a href="https://mickel.tech">
       <img src="https://img.shields.io/badge/Website-mickel.tech-111?logo=vercel&style=for-the-badge" alt="Website" />
     </a>
+    <a href="https://dociq.io">
+      <img src="https://img.shields.io/badge/DocIQ-dociq.io-2eb8a6?style=for-the-badge" alt="DocIQ" />
+    </a>
     <a href="https://discord.gg/nHEmyJB5tg">
       <img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
     </a>
@@ -29,8 +32,8 @@
 
 <br>
 
-> **Now:** Operating Principal (AI) @ GrowthFactors (Bregal Unternehmerkapital)
-> **Prev:** Head of AI @ CISTEC AG • Founder @ DocIQ
+> **Now:** Operating Principal (AI) @ GrowthFactors (Bregal Unternehmerkapital) · Founder @ [DocIQ](https://dociq.io)
+> **Prev:** Head of AI @ CISTEC AG
 
 <br>
 
@@ -39,7 +42,7 @@
 <table>
 <tr>
 <td width="25%"><strong>🔨 Builder</strong></td>
-<td>Built and sold AI LegalTech to Swiss enterprises (incl. Swisscom) via <a href="https://twitter.com/dociq_io">DocIQ</a></td>
+<td>Building <a href="https://dociq.io">DocIQ</a> — AI document intelligence for legal. Word-native tracked changes, legal research across 6 databases, court anonymization with zero persistence. Swiss engineered.</td>
 </tr>
 <tr>
 <td><strong>⚙️ Operator</strong></td>
@@ -62,6 +65,10 @@
 ```
 🏗️  Reusable AI Platforms
     → LLM API gateways, vector search services, context engineering, evaluation frameworks
+
+📄  AI Document Intelligence (DocIQ)
+    → OOXML-level editing with tracked changes, legal research across 6 databases,
+      court anonymization with zero data persistence, agentic playbooks
 
 🔒  Privacy-Preserving AI
     → On-prem PII masking (~97% accuracy) for FADP/GDPR compliance
