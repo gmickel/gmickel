@@ -139,7 +139,7 @@
 
 | | |
 |:---:|:---|
-| 📅 | **Advisory/consulting:** [Book a call](https://mickel.tech/book) |
+| 📅 | **Advisory/consulting:** [Book a call](https://cal.com/gmickel) |
 | 💬 | **Questions/feedback:** [DM on X](https://twitter.com/gmickel) |
 | 🚀 | Open to select opportunities where technical depth meets strategic impact |
 | ❤️ | **Support:** [GitHub Sponsors](https://github.com/sponsors/gmickel) · [Ko-fi](https://ko-fi.com/gmickel) |
