@@ -37,7 +37,7 @@
 
 ## 🛠 Current Projects
 
-- 🧭 **[Flow-Next](https://github.com/gmickel/flow-next)** - Spec-driven workflow orchestration for coding agents. Durable specs, context-fit tasks, re-anchored workers, cross-model review gates, Ralph autonomous loops, live-app QA, Linear and GitHub Issues sync, and machine-readable receipts. Runs across Claude Code, Codex, Factory Droid, Cursor, and other agent harnesses. [flow-next.dev](https://flow-next.dev)
+- 🧭 **[Flow-Next](https://github.com/gmickel/flow-next)** - Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined delivery system: durable specs preserve intent, fresh-context workers prevent drift, adversarial cross-model reviews fix issues until `SHIP`, and receipts prove every handoff. Everything lives in your repo, with zero external dependencies. Run it human-in-the-loop or hand a reviewed spec to Ralph overnight. Claude Code · Codex · Cursor · Droid. [flow-next.dev](https://flow-next.dev)
 - 🧪 **[flow-next-opencode](https://github.com/gmickel/flow-next-opencode)** - OpenCode port of Flow-Next with Ralph mode, re-anchoring, and multi-model review gates.
 - 🧠 **[GNO](https://github.com/gmickel/gno)** - Local-first search and retrieval for working files. Hybrid BM25, vectors, reranking, wiki links, backlinks, and graph traversal via CLI, MCP, REST API, SDK, and Web UI. Markdown, code, PDF, and Office documents stay local by default. [gno.sh](https://gno.sh)
 - 🎙️ **[Dettivo](https://dettivo.com)** - Private speech workstation for Apple Silicon. Local dictation and meeting transcription with WhisperKit, Parakeet v3, and a custom MLX model; CLI, REST API, and MCP access.
