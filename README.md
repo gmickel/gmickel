@@ -1,243 +1,110 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gmickel/gmickel/main/img/oo.jpg" alt="Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/gmickel/gmickel/main/img/oo.jpg" alt="Gordon Mickel" width="100%" />
 
-  # Hi there, I'm Gordon 👋
+  # Gordon Mickel
 
-  <p align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=gmickel">
-      <img src="https://img.shields.io/twitter/follow/gmickel?color=%234682B4&logo=twitter&style=for-the-badge" alt="Follow on X" />
-    </a>
-    <a href="https://www.linkedin.com/in/gmickel/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-    </a>
-    <a href="https://mickel.tech">
-      <img src="https://img.shields.io/badge/Website-mickel.tech-111?logo=vercel&style=for-the-badge" alt="Website" />
-    </a>
-    <a href="https://dociq.io">
-      <img src="https://img.shields.io/badge/DocIQ-dociq.io-2eb8a6?style=for-the-badge" alt="DocIQ" />
-    </a>
-    <a href="https://discord.gg/nHEmyJB5tg">
-      <img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
-    </a>
-  </p>
+  **AI systems builder, transformation operator, and independent advisor**
+
+  I build production AI products and the operating systems around them. My portfolio includes Flow-Next, GNO, Dettivo, and DocIQ; my advisory work helps software companies redesign product delivery and put AI systems into production.
+
+  [![Website](https://img.shields.io/badge/mickel.tech-111?style=for-the-badge)](https://mickel.tech)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gmickel/)
+  [![X](https://img.shields.io/badge/@gmickel-000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/gmickel)
+  [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/nHEmyJB5tg)
 </div>
 
-<br>
+> **Now:** Operating Principal, AI & Technology at Growth Factors (Bregal Unternehmerkapital); founder of [DocIQ](https://dociq.io) and [Mickel Tech](https://mickel.tech)<br>
+> **Previously:** Head of AI at CISTEC AG
 
-<p align="center">
-  <strong>Dev turned Operator. I bridge the gap between "AI Hype" and "Production Reality."</strong>
-  <br><br>
-  I don't just advise — I build the engine for value creation. Ship production LLM platforms (0→1 fast), enable engineering teams, and treat AI as infrastructure, not a feature.
-</p>
-
-<br>
-
-> **Now:** Operating Principal (AI) @ GrowthFactors (Bregal Unternehmerkapital) · Founder @ [DocIQ](https://dociq.io)
-> **Prev:** Head of AI @ CISTEC AG
-
-<br>
-
-## 🎯 Operating Modes
-
-<table>
-<tr>
-<td width="25%"><strong>🔨 Builder</strong></td>
-<td>Building <a href="https://dociq.io">DocIQ</a> — AI document intelligence for legal. Word-native tracked changes, legal research across 6 databases, court anonymization with zero persistence. Swiss engineered.</td>
-</tr>
-<tr>
-<td><strong>⚙️ Operator</strong></td>
-<td>Operating Principal (AI) @ GrowthFactors — deploying a standardized AI operating system across Bregal's portfolio companies</td>
-</tr>
-<tr>
-<td><strong>🎓 Technical Expert (ITDR)</strong></td>
-<td>Listed expert for Swiss arbitration & complex data disputes</td>
-</tr>
-<tr>
-<td><strong>💡 Advisor</strong></td>
-<td>Guide VCs, C-suites, and portfolio companies on AI strategy, architecture, and risk via <a href="https://mickel.tech">Mickel Tech</a></td>
-</tr>
-</table>
-
-## 🚀 What I Build
-
-<p align="center"><em>Creating robust, production-ready AI systems that drive measurable outcomes</em></p>
-
-```
-🏗️  Reusable AI Platforms
-    → LLM API gateways, vector search services, context engineering, evaluation frameworks
-
-📄  AI Document Intelligence (DocIQ)
-    → OOXML-level editing with tracked changes, legal research across 6 databases,
-      court anonymization with zero data persistence, agentic playbooks
-
-🔒  Privacy-Preserving AI
-    → On-prem PII masking (~97% accuracy) for FADP/GDPR compliance
-
-🤖  Agentic Architectures
-    → Multi-agent systems, prompt-to-structured-data compilers, semantic search at scale
-
-👨‍💻  Developer Enablement
-    → AI coding assistant rollouts, prompt/playbook patterns, safety guardrails
-
-📊  Production LLM Ops
-    → Evaluation pipelines (quality/safety/latency/cost), observability, A/B testing
-```
-
-## ✅ Recent Wins
-
-<table>
-<tr><td>📄</td><td>Shipped <strong>DocIQ Shield</strong> (court anonymization, in production at Swiss courts) and <strong>DocIQ Sphere</strong> (the most powerful agentic legal document platform: 40+ tools, 6 legal databases, Word-native tracked changes)</td></tr>
-<tr><td>⚡</td><td>Rolled out AI-native SDLC across 4 dev teams on heterogeneous stacks — 100K+ word engineering guide, predicted 50%+ faster delivery</td></tr>
-<tr><td>🎙️</td><td>Architected production AI voice agent for enterprise call center — eval framework, prompt optimization, real-time API</td></tr>
-<tr><td>📊</td><td>Built <a href="https://github.com/gmickel/gmickel-bench">gmickel-bench</a> — real-world AI coding evals across 6 benchmarks with dual scoring (LLM judge + human review)</td></tr>
-<tr><td>🏥</td><td>Shipped a multi-tenant clinical LLM platform in &lt;3 months with on-prem PII masking (97% accuracy), driving new ARR</td></tr>
-<tr><td>🎤</td><td>Speaker at openEHR.ch Symposium: <em>Agentic AI for Structured Clinical Data</em></td></tr>
-</table>
-
-## 🛠 Current Projects
-
-- 🧭 **[Flow-Next](https://github.com/gmickel/gmickel-claude-marketplace)** - Spec-driven agentic SDLC for coding agents: durable specs keep intent alive across the chat, context-fit plans size each task to one iteration, fresh-context workers re-anchor per task, and adversarial cross-model review gates (RepoPrompt / Codex / Copilot) run until SHIP — with a receipt for every handoff. Team-ready: handover objects, R-ID requirement coverage, make-pr cognitive-aid PRs, live-app QA, and two-way Linear / GitHub Issues sync. Ralph Mode for full autonomy; first-class on Claude Code, Codex, Droid, Grok Build, and Cursor. The agent loop Anthropic's own guidance recommends but their plugin doesn't implement.
-- 🧪 **[flow-next-opencode](https://github.com/gmickel/flow-next-opencode)** - OpenCode port of Flow-Next. Same re-anchoring, same review gates, now with OpenCode Agent as reviewer. Experimental.
-- 🧠 **[GNO](https://github.com/gmickel/gno)** - Local search, retrieval, and synthesis for the files you actually work in. Hybrid BM25+vector retrieval, grounded answers with citations, wiki links, backlinks, knowledge graph. CLI, MCP, Web UI, REST API, SDK — for humans and AI agents. Publish any note to **[gno.sh](https://gno.sh)** as a polished reader URL (public, secret, invite-only, or locally-encrypted-before-upload). Markdown, code, PDF, Office — 100% local by default.
-- 📊 **[sheets-cli](https://github.com/gmickel/sheets-cli)** - Google Sheets primitives for humans and agents. Pipe-friendly.
-- 🔖 **[raindrop-skill](https://github.com/gmickel/raindrop-skill)** - Agent Skill for Raindrop.io bookmarks. Works with Claude Code, Codex, Amp, OpenCode.
-- 🎓 **[better-skill-builder](https://github.com/gmickel/better-skill-builder)** - Teaches AI agents to build skills. Battle-tested patterns, not theory.
-- 📧 **[outlookctl](https://github.com/gmickel/outlookctl)** - When Graph API is blocked, COM whispers to Classic Outlook.
-- ⚙️ **[claude-code-config](https://github.com/gmickel/claude-code-config)** - My Claude Code setup. Steal freely.
-- ✂️ **[SmartTrim](https://github.com/gmickel/SmartTrim)** - AI clipboard carnage? Fixed. Ghost indentation, begone.
-- 🏄 **[cursor-windsurf-convert](https://github.com/gmickel/cursor-windsurf-convert)** - Surf your AI rules between Cursor and Windsurf. Lossless.
-- 📅 **[CalSync](https://github.com/gmickel/CalSync)** - Clone Apple Calendar events. Simple utility, does one thing.
-
-### Legacy Work
-
-- 🤖 **[CodeWhisper](https://github.com/gmickel/CodeWhisper)** - The OG plan→implement agent. Still my daily driver for repo context.
-- 🧠 **[memorybot](https://github.com/gmickel/memorybot)** - Unlimited context chatbot. Before it was cool.
-- 🏗️ **[turborepo-shadcn-nextjs](https://github.com/gmickel/turborepo-shadcn-nextjs)** - Next.js + Nextra + Storybook + shadcn/ui. Bun & Biome powered.
-- 🎮 **[CodeQuest](https://github.com/gmickel/CodeQuest)** - Quiz game framework. Build your own learning adventures.
-- 🏥 **[openehr-quest](https://github.com/gmickel/openehr-quest)** - Learn OpenEHR via CodeQuest
-- 💡 **[hugh](https://github.com/gmickel/hugh)** - Node.js Hue bridge lib
-- 🤖 **[telegram-hue-bot](https://github.com/gmickel/telegram-hue-bot)** - Lights via Telegram
-
-<br>
-
-## 🎯 2026 Mandate
-
-<div align="center">
-
-| Focus | What It Means |
-|:-----:|:--------------|
-| 🔄 **Rewire SDLC** | Move teams from Copilot autocomplete to AI-native workflows (Plan → Build → Deploy) |
-| 🤖 **Ops Agents** | Replace manual back-office loops (Finance, HR, Support) with autonomous systems |
-| 📈 **Product AI** | Ship features that drive NRR & EBITDA — 30-day lighthouse pilots, kill or scale |
-
-</div>
-
-## 🤝 Connect
-
-<div align="center">
+## How I work
 
 | | |
-|:---:|:---|
-| 📅 | **Advisory/consulting:** [Book a call](https://cal.com/gmickel) |
-| 💬 | **Questions/feedback:** [DM on X](https://twitter.com/gmickel) |
-| 🚀 | Open to select opportunities where technical depth meets strategic impact |
-| ❤️ | **Support:** [GitHub Sponsors](https://github.com/sponsors/gmickel) · [Ko-fi](https://ko-fi.com/gmickel) |
+|---|---|
+| **Builder** | Build and operate a portfolio of AI products: agentic software delivery with [Flow-Next](https://flow-next.dev), local knowledge infrastructure with [GNO](https://gno.sh), private speech tooling with [Dettivo](https://dettivo.com), and regulated legal AI with [DocIQ](https://dociq.io). |
+| **Operator** | Operating Principal, AI & Technology at Growth Factors. Lead portfolio-scale AI transformation across Bregal software companies, from executive alignment and operating-model design through hands-on product and engineering rollout. |
+| **Advisor** | Through [Mickel Tech](https://mickel.tech), take selected independent mandates in agentic PDLC, production AI systems, architecture, build-vs-buy decisions, and internal capability building. |
+| **Technical expert** | ITDR-listed independent expert for complex software disputes, technical due diligence, and contract acceptance. A specialist practice alongside the product and transformation work. |
 
-</div>
+## Recent work
 
-<br>
+<table>
+<tr><td>⚡</td><td>Designed and rolled out an AI-native product and software delivery methodology across 10+ enterprise software companies, reaching 700+ R&amp;D engineers through PDLC redesign, change management, hands-on coaching, and the open-source <strong>Flow-Next</strong> delivery system</td></tr>
+<tr><td>📄</td><td>Shipped <strong>DocIQ Shield</strong>, court anonymization with zero data persistence, and <strong>DocIQ Sphere</strong>, a Word-native legal agent with 40+ tools and research across six legal databases</td></tr>
+<tr><td>🧠</td><td>Built a multi-tenant intelligence platform that turns noisy operational signals into validated, role-aware executive insight; live across three companies, with a patent-pending measurement methodology</td></tr>
+<tr><td>🎙️</td><td>Advised on enterprise voice, call-analysis, and agent-coaching systems operating at roughly one million calls per month</td></tr>
+<tr><td>🏥</td><td>Shipped a multi-tenant clinical LLM platform in under three months, including on-premise PII masking at approximately 97% accuracy</td></tr>
+</table>
 
----
+## Current Projects
 
-<br>
+### [Flow-Next](https://github.com/gmickel/flow-next) · [flow-next.dev](https://flow-next.dev)
 
-## 📕 Latest Blog Posts
+Spec-driven workflow orchestration for coding agents. Durable specifications preserve intent; context-sized tasks and fresh workers limit drift; cross-model review gates verify the result. Includes autonomous Ralph loops, Linear and GitHub Issues sync, live-app QA, and machine-readable receipts. Runs across Claude Code, Codex, Factory Droid, Cursor, and other agent harnesses.
+
+### [GNO](https://github.com/gmickel/gno) · [gno.sh](https://gno.sh)
+
+Local-first search and retrieval for the files you actually work in. Hybrid BM25, vector search, reranking, wiki links, backlinks, and knowledge-graph traversal behind a CLI, MCP server, REST API, SDK, and web UI. Markdown, code, PDF, and Office documents stay local by default.
+
+### [Dettivo](https://dettivo.com)
+
+A private speech workstation for Apple Silicon. Local dictation and meeting transcription with WhisperKit, Parakeet v3, and a custom MLX model; CLI, REST API, and MCP access; no cloud dependency.
+
+### [DocIQ](https://dociq.io)
+
+Agentic legal document intelligence built for Swiss and European practice. Word-native tracked changes, research across six legal databases, reusable playbooks, data rooms, and court-grade anonymization with zero stored document data.
+
+### More current tools
+
+| Project | Purpose |
+|---|---|
+| [sheets-cli](https://github.com/gmickel/sheets-cli) | Composable Google Sheets CLI and agent skills for Claude Code and Codex. |
+| [obsidian-skill](https://github.com/gmickel/obsidian-skill) | Agent skill for reading, searching, and maintaining Obsidian vaults through the official CLI. |
+| [better-skill-builder](https://github.com/gmickel/better-skill-builder) | Production patterns for building portable Agent Skills. |
+| [raindrop-skill](https://github.com/gmickel/raindrop-skill) | Bookmark search and management for Claude Code, Codex, Amp, and OpenCode. |
+| [outlookctl](https://github.com/gmickel/outlookctl) | Local automation for Classic Outlook when Microsoft Graph is unavailable. |
+| [gmickel-bench](https://mickel.tech/gmickel-bench) | Real-world coding-agent evaluations with model judging and human review. |
+| [SmartTrim](https://github.com/gmickel/SmartTrim) | macOS menu-bar utility that repairs mangled text copied from AI coding assistants. |
+| [flow-next-opencode](https://github.com/gmickel/flow-next-opencode) | OpenCode port of Flow-Next with Ralph mode, re-anchoring, and multi-model review gates. |
+| [claude-code-config](https://github.com/gmickel/claude-code-config) | My working Claude Code configuration and reusable setup patterns. |
+| [cursor-windsurf-convert](https://github.com/gmickel/cursor-windsurf-convert) | Lossless conversion between Cursor and Windsurf rule formats. |
+
+## Legacy Work
+
+- [CodeWhisper](https://github.com/gmickel/CodeWhisper), the 2024 predecessor to Flow-Next: end-to-end task implementation and fast codebase-to-LLM context assembly
+- [memorybot](https://github.com/gmickel/memorybot), persistent-context Node.js AI agent, first released in 2023
+- [turborepo-shadcn-nextjs](https://github.com/gmickel/turborepo-shadcn-nextjs), Bun and Biome-powered monorepo starter
+- [CodeQuest](https://github.com/gmickel/CodeQuest), framework for building interactive learning games
+- [openehr-quest](https://github.com/gmickel/openehr-quest), an OpenEHR learning game built on CodeQuest
+- [hugh](https://github.com/gmickel/hugh), Node.js library for Philips Hue bridges and lights
+- [telegram-hue-bot](https://github.com/gmickel/telegram-hue-bot), Telegram control for Philips Hue
+- [CalSync](https://github.com/gmickel/CalSync), archived macOS utility for copying events between Apple calendars
+
+## Current focus
+
+- **AI-native PDLC:** connect product discovery, specification, implementation, review, QA, and measurement into one agent-ready system
+- **Agent reliability:** make autonomous work inspectable through evidence, adversarial review, and durable handoffs
+- **Private AI:** keep sensitive legal, clinical, and enterprise data under the owner's control
+- **Compounding tools:** turn repeated delivery problems into open-source infrastructure other teams can adopt
+
+## Writing
+
+I write field notes on agentic engineering, context design, evaluation, and production AI at [mickel.tech](https://mickel.tech/log). The older archive lives at [Byte-Sized Brainwaves](https://bytesizedbrainwaves.substack.com/).
 
 <!-- BLOG-POST-LIST:START -->
-- [The "Context Hygiene" Problem: Why I rewrote my Claude Code workflows](https://bytesizedbrainwaves.substack.com/p/the-context-hygiene-problem-why-i)
-- [Announcing gmickel-bench: Real-World Evals](https://bytesizedbrainwaves.substack.com/p/announcing-gmickel-bench-real-world)
-- [Claude Opus 4.5 Unlocks the "No Restart" Workflow](https://bytesizedbrainwaves.substack.com/p/claude-opus-45-unlocks-the-no-restart)
-- [The Merchants of Complexity: Why AI Finally Delivers What Agile Promised](https://bytesizedbrainwaves.substack.com/p/the-merchants-of-complexity-why-ai)
+- [Harness Engineering: A Field Guide to Building Agents That Hold Up](https://mickel.tech/log/building-agents-that-hold-up)
+- [Designing Tools AI Agents Can Actually Use](https://mickel.tech/log/designing-tools-agents-can-actually-use)
+- [Agent Memory Is Not a Vector Database](https://mickel.tech/log/agent-memory-is-not-a-vector-database)
+- [Evaluating Agents When the Demo Always Passes](https://mickel.tech/log/evaluating-agents-when-the-demo-always-passes)
+- [When to Reach for Multiple Agents (and When Not To)](https://mickel.tech/log/when-to-reach-for-multiple-agents)
 <!-- BLOG-POST-LIST:END -->
 
-<div align="center">
+## Contact
 
-➡️ [More posts on Medium](https://medium.com/byte-sized-brainwaves) · [More on Substack](https://bytesizedbrainwaves.substack.com/) ⬅️
-
-</div>
-
----
-
-<br>
-
-## 🧰 Languages and Tools
+- Advisory and consulting: [book a call](https://cal.com/gmickel)
+- Professional profile: [LinkedIn](https://www.linkedin.com/in/gmickel/)
+- Open-source questions: [GitHub](https://github.com/gmickel) or [Discord](https://discord.gg/nHEmyJB5tg)
+- Email: [gordon@mickel.tech](mailto:gordon@mickel.tech)
 
 <div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-### Frameworks & Runtime
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=%2300DC82)
-![Hono](https://img.shields.io/badge/Hono-%23E6E6E6.svg?style=for-the-badge&logo=hono&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-### Infrastructure & Data
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-### Development Tools
-![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-1B1B1B?style=for-the-badge&logo=cursor&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0093E9?style=for-the-badge&logo=windsurf&logoColor=white)
-![Raycast](https://img.shields.io/badge/Raycast-FF6363?style=for-the-badge&logo=raycast&logoColor=white)
-
-</div>
-
----
-
-<br>
-
-## ☕ Support
-
-<div align="center">
-
-<p><em>If my work helped you, consider supporting it:</em></p>
-
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://github.com/sponsors/gmickel)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gmickel)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://new-stats-git-main-gmickels-projects.vercel.app/api?username=gmickel&show_icons=true&hide_border=false&theme=tokyonight&count_private=true)
-
-![Top Languages](https://new-stats-git-main-gmickels-projects.vercel.app/api/top-langs/?username=gmickel&show_icons=true&hide_border=false&theme=tokyonight&count_private=true)
-
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Built with ❤️ by Gordon Mickel</sub>
+  <sub>Basel, Switzerland</sub>
 </div>
