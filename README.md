@@ -37,31 +37,39 @@
 
 ## 🛠 Current projects
 
-- 🧭 **[Flow-Next](https://github.com/gmickel/flow-next)** - An open-source delivery system for coding agents. Specs hold intent, fresh-context workers implement bounded tasks, cross-model reviews catch misses, and receipts show what happened. Keep a human in the loop or hand a reviewed spec to Ralph overnight. Claude Code · Codex · Cursor · Droid. [flow-next.dev](https://flow-next.dev)
-- 🧪 **[flow-next-opencode](https://github.com/gmickel/flow-next-opencode)** - OpenCode port of Flow-Next with Ralph mode, re-anchoring, and multi-model review gates.
-- 🧠 **[GNO](https://github.com/gmickel/gno)** - Local-first search and retrieval for working files. Hybrid BM25, vectors, reranking, wiki links, backlinks, and graph traversal via CLI, MCP, REST API, SDK, and Web UI. Markdown, code, PDF, and Office documents stay local by default. [gno.sh](https://gno.sh)
-- 🎙️ **[Dettivo](https://dettivo.com)** - Private speech workstation for Apple Silicon. Local dictation and meeting transcription with WhisperKit, Parakeet v3, and a custom MLX model; CLI, REST API, and MCP access.
+- 🧭 **[Flow-Next](https://github.com/gmickel/flow-next)** - An open-source delivery system for coding agents. It takes a bug, idea, or ticket to a verified pull request: specs hold intent, cross-model reviews scale with risk, live QA checks the running app, and receipts show what happened. Keep a human in the loop, or run `flow --auto` through to a merged PR. Claude Code · Codex · Cursor · Droid · Grok Build · OpenCode. [flow-next.dev](https://flow-next.dev)
+- 🧠 **[GNO](https://github.com/gmickel/gno)** - Local-first search and retrieval for working files. Hybrid BM25, vectors, reranking, wiki links, backlinks, and graph traversal via CLI, MCP, REST API, SDK, and Web UI. Markdown, code, PDF, and Office documents stay local by default, and GNO installs its retrieval protocol and skill into Claude Code, Codex, Cursor, Hermes, and OpenClaw, and its MCP server into ten clients. [gno.sh](https://gno.sh)
+- 🎙️ **[Dettivo](https://dettivo.com)** - Private speech workstation for macOS and Linux. Local dictation into any app, bot-free meeting transcription with speaker names, and searchable history; CLI, REST API, and MCP access. The Mac app runs WhisperKit, Parakeet v3, and a custom MLX model on Apple Silicon.
+- 🐧 **[Dettivo for Linux](https://github.com/gmickel/dettivo-linux)** - Push-to-talk dictation and meeting transcription on the Linux desktop, with Whisper, Parakeet, and a local LLM on your GPU (Vulkan) or CPU. Built for Omarchy and Hyprland first, and runs on Sway, Niri, GNOME, and KDE. [dettivo.com/linux](https://dettivo.com/linux)
 - 📄 **[DocIQ](https://dociq.io)** - Agentic legal document intelligence. Word-native tracked changes, research across six legal databases, reusable playbooks, data rooms, and zero-persistence court anonymization.
 - 📊 **[sheets-cli](https://github.com/gmickel/sheets-cli)** - Composable Google Sheets CLI and agent skills for Claude Code and Codex.
 - 🗂️ **[obsidian-skill](https://github.com/gmickel/obsidian-skill)** - Agent skill for reading, searching, and maintaining Obsidian vaults through the official CLI.
 - 🎓 **[better-skill-builder](https://github.com/gmickel/better-skill-builder)** - Production patterns for building portable Agent Skills.
 - 🔖 **[raindrop-skill](https://github.com/gmickel/raindrop-skill)** - Bookmark search and management for Claude Code, Codex, Amp, and OpenCode.
 - 📧 **[outlookctl](https://github.com/gmickel/outlookctl)** - Local automation for Classic Outlook when Microsoft Graph is unavailable.
+- 📉 **[flowmeter](https://github.com/gmickel/flowmeter-public)** - Local, privacy-first token, cost, cache, and trace analysis for Cursor, Claude Code, and Codex, with optional Flow-Next attribution.
 - 📈 **[gmickel-bench](https://mickel.tech/gmickel-bench)** - Real-world coding-agent evaluations with model judging and human review.
 - ✂️ **[SmartTrim](https://github.com/gmickel/SmartTrim)** - macOS menu-bar utility that repairs mangled text copied from AI coding assistants.
-- ⚙️ **[claude-code-config](https://github.com/gmickel/claude-code-config)** - My working Claude Code configuration and reusable setup patterns.
 - 🏄 **[cursor-windsurf-convert](https://github.com/gmickel/cursor-windsurf-convert)** - Lossless conversion between Cursor and Windsurf rule formats.
+
+### Omarchy
+
+- 🎙️ **[omarchy-dettivo](https://github.com/gmickel/omarchy-dettivo)** - Dettivo in the Omarchy bar: local dictation and meeting transcription with a panel and the recording pill.
+- 🔎 **[omarchy-gno-recall](https://github.com/gmickel/omarchy-gno-recall)** - GNO in the Omarchy bar: index health, an anchored index panel, and a recall overlay.
+- 📊 **[omarchy-agents-usage](https://github.com/gmickel/omarchy-agents-usage)** - Bar widget for AI coding quotas across Claude and Codex accounts, Cursor, Grok, and more.
+- 🎨 **[omarchy-beeper-theme](https://github.com/gmickel/omarchy-beeper-theme)** - Keeps Beeper Desktop in sync with the active Omarchy theme.
 
 ### Legacy work
 
 - 🤖 **[CodeWhisper](https://github.com/gmickel/CodeWhisper)** - The 2024 predecessor to Flow-Next: end-to-end task implementation and fast codebase-to-LLM context assembly.
+- 🧪 **[flow-next-opencode](https://github.com/gmickel/flow-next-opencode)** - The earlier OpenCode port of Flow-Next, archived now that Flow-Next runs on OpenCode directly.
 - 🧠 **[memorybot](https://github.com/gmickel/memorybot)** - Persistent-context Node.js AI agent, first released in 2023.
 - 🏗️ **[turborepo-shadcn-nextjs](https://github.com/gmickel/turborepo-shadcn-nextjs)** - Bun and Biome-powered monorepo starter.
 - 🎮 **[CodeQuest](https://github.com/gmickel/CodeQuest)** - Framework for building interactive learning games.
 - 🏥 **[openehr-quest](https://github.com/gmickel/openehr-quest)** - OpenEHR learning game built on CodeQuest.
 - 💡 **[hugh](https://github.com/gmickel/hugh)** - Node.js library for Philips Hue bridges and lights.
 - 🤖 **[telegram-hue-bot](https://github.com/gmickel/telegram-hue-bot)** - Telegram control for Philips Hue.
-- 📅 **[CalSync](https://github.com/gmickel/CalSync)** - Archived macOS utility for copying events between Apple calendars.
+- 📅 **[CalSync](https://github.com/gmickel/CalSync)** - macOS utility for copying events between Apple calendars.
 
 ## Current focus
 
