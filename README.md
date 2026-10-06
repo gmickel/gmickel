@@ -13,7 +13,7 @@
   [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/nHEmyJB5tg)
 </div>
 
-> **Now:** Building Flow-Next, GNO, Dettivo, and DocIQ; Operating Principal, AI & Technology at Growth Factors (BU Bregal Unternehmerkapital)<br>
+> **Now:** Building Flow-Next, GNO, Dettivo, and DocIQ; Operating Principal, AI & Technology Lead at Growth Factors (BU Bregal Unternehmerkapital)<br>
 > **Previously:** Head of AI at CISTEC AG
 
 ## How I work
